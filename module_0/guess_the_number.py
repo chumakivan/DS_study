@@ -1,3 +1,4 @@
+# coding=utf-8
 #DS study. Student: Chumak Ivan Module_0
 
 import numpy as np
